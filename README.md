@@ -65,9 +65,6 @@ audio/
   <li>Pygame</li>
 </ul>
 
-<h2>🖼️ Screenshots</h2>
-<p><i>Add screenshots here of the game in action for better presentation.</i></p>
-
 <h2>🔮 Future Improvements</h2>
 <ul>
   <li>❤️ Add lives and a game over screen.</li>
