@@ -77,4 +77,3 @@ audio/
 <h2>📄 License</h2>
 <p>This project is open source and free to use. Feel free to contribute!</p>
 
-<p><i>Need help adding screenshots, GIFs, or contribution guidelines? Just ask! 😊</i></p>
